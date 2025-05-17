@@ -11,3 +11,5 @@ This dashboard provides insights on healthcare data like patient admissions,trea
 1 Download he pbix'file.
 2 Open in Power BI Desktop.
 3 Explore the visualization and filters
+## To explore visuals
+Added Screenshot
