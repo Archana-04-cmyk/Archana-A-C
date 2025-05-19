@@ -2,7 +2,7 @@
 ## Health care Dashboard
 [Explore Helah Care Dashboard](https://github.com/Archana-04-cmyk/Archana-A-C/blob/main/Health%20Care%20Dashboard%20Development.pbix)
 ## About the project
-This dashboard provides insights on healthcare data like patient admissions,treatment types,and regional stats...
+This dashboard provides insights on healthcare data like patient admissions,treatment types,and regional stats.
 ## Tools Used
 -Power BI
 -DAX
